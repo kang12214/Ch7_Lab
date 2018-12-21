@@ -1,0 +1,6 @@
+Name	Chinese	English	Math	Sum	Average
+Marry	30	20	54	104	34.00
+Joe	58	62	75	195	65.00
+Kile	65	98	78	241	80.00
+Frank	18	43	69	130	43.00
+Gray	61	58	78	197	65.00
